@@ -1,0 +1,17 @@
+{
+    "roommates": [
+        {
+            "id": "f425eff0-d1ad-457c-a756-9605f53bf008",
+            "nombre": "Julie Larsen",
+            "debe": 0,
+            "recibe": 0
+        },
+        {
+            "id": "392d144d-ed3d-47f0-b201-1191875e2a69",
+            "nombre": "Michelle Arnold",
+            "debe": 0,
+            "recibe": 0
+        }
+    ],
+    "gastos": []
+}
